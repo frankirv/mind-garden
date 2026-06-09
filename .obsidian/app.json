@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "03_Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Inbox",
+  "promptDelete": false,
+  "showInlineTitle": true
+}

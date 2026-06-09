@@ -1,0 +1,8 @@
+.DS_Store
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Large or generated attachments can be kept out of Git if needed.
+# 03_Attachments/
