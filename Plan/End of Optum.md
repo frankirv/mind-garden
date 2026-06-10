@@ -1,0 +1,9 @@
+	- Sign final documents
+	- Finish COBRA applications, start for this year, 
+	- Employment
+		- Office 5701 Katella Ave, Cyopress, CA
+		- Title: Architect
+		- Assignment Start Date: 09/26/2021
+		- Enterprise Start Date: 06/28/2010
+		- Optum Services, Inc.
+	- 
